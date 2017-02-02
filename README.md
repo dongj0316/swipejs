@@ -1,0 +1,2 @@
+# swipejs
+touch,swipe
