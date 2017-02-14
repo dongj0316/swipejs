@@ -13,5 +13,11 @@
 ```
 DJ.toucher('#div').on('touchStart',function(e){
     e.preventDefault();
+}).on('swipeLeft',function(e){
+    //left
+}).on('swipeRight',function(e){
+    //right
+}).on('touchEnd tag longTag',function(){
+    //同时绑定
 })
 ```
